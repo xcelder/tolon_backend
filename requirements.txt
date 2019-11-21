@@ -1,1 +1,2 @@
 Flask==1.1.1
+Frozen_Flask==0.15
